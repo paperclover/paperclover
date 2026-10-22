@@ -8,5 +8,5 @@
 
 you can visit my website at [https://paperclover.net](https://paperclover.net)
 
-i no longer use github for personal activities, though some of my repos are mirrored here for ease of contribution. [go to clover git](https://git.paperclover.net).
+i no longer use github for personal activities. my code lives on [shale](https://shale.paperclover.net/), which supports sign in with github if you need to contribute.
 
