@@ -1,8 +1,8 @@
 <div>
-<b>clover <em>"paper clover"</em> caruso</b>&nbsp;&nbsp;&nbsp;&nbsp;<sup>age=22</sup><br/>
-&nbsp;- software engineer at work<br/>
+<b>clover <em>"paper clover"</em> caruso</b><br/>
+&nbsp;- software engineer at work. i work in secret.<br/>
 &nbsp;- songwriter, music producer, graphics nerd<br/>
-&nbsp;- girl who loves to be cozy<br/>
+&nbsp;- lesbian cuddlebug<br/>
 <br/>
 </div>
 
