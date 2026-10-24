@@ -1,5 +1,4 @@
 <div>
-<b>clover <em>"paper clover"</em> caruso</b><br/>
 &nbsp;- software engineer at work. i work in secret.<br/>
 &nbsp;- songwriter, music producer, graphics nerd<br/>
 &nbsp;- lesbian cuddlebug<br/>
